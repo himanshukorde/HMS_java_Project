@@ -54,7 +54,10 @@ The Hotel Management System is a Java application designed to streamline hotel m
 ## Dashboard
 ![image](https://github.com/himanshukorde/HMS_java_Project/assets/121392657/c1cc423b-9c3d-476a-bd27-ed5056e1eb4b)
 
-##
+## Reception Page
+![image](https://github.com/himanshukorde/HMS_java_Project/assets/121392657/82dd8bef-a80d-4490-aea2-24fbddf06dec)
+
+
 
 
 
